@@ -98,13 +98,3 @@ pip install pandas scikit-learn
 python train.py
 ```
 
-## Next steps
-
-- [ ] Serve model via FastAPI `/predict` endpoint
-- [ ] Containerize with Docker
-- [ ] Try subword/embedding-based vectorization for OOV robustness
-- [ ] Add a minimal frontend for live message testing
-
----
-
-*Part of a guided ML portfolio series covering Naive Bayes, Logistic Regression, Decision Trees/Random Forests, SVM, KNN, K-Means, PCA, Gradient Boosting, and Time Series forecasting.*
